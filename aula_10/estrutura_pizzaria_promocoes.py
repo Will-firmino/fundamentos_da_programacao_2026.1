@@ -10,7 +10,7 @@ print(f" O sabor escolhido da pizza é {pizza_sabor}, o tamanho é {pizza_tamanh
 # Comprando qualquer pizza e qualquer tamanho no sábado,
 # o refri é gratuito.
 if dia_semana == "sabado":
-    print(f"🍕Pedido aceito com sucesso!")
+    print(f"🍕Pedido aceito com sucesso!") 
     print(f"O Refri hoje é por conta da casa!.")
 elif dia_semana == "domingo":
     print(f"🍕Pedido aceito com sucesso!")
