@@ -51,16 +51,6 @@ Sintaxe:
 while condicao:
     comandos
 
-
-
-
-
-
-
-
-
-
-
 ## Conversão de tipos em python
 1. int() -> A gente vai incluir qual variável/dado que queremos converter para número inteiro.
 2. float() -> A gente vai incluir qual variável/dado que queremos converter para número decimal.
