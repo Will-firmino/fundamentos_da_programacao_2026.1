@@ -70,3 +70,15 @@ UPPERCASE,para simular que aquela variável não pode ser alterada.
 `propriedade` -> Variável em memória que irá receber um argumento.
 `argumento` -> [Valor] que irá preencher o espaço da propriedade.
 
+## Estruturas de Dados
+`list ou lista` -> Armazera valores avulsos e podem ser heterogênea ou homogênea. Ou seja, pode guardar valores de um mesmo tipo ou de diferentes tipos.
+Ex: list = [] // Lista vazia
+list = ["William", 25, 1.82]
+
+`dict ou dicionário` -> Armazena conjuntos de valores (chave:valor). As chaves e valores podem ser heterogênea ou homogênea.
+1. Para obter o valor de um conjunto em dict, você acessa pela chave.
+Ex: dados_usuario = {} // Dicionário Vazio
+dados_usuario = {"nome": "William", "cpf": 111456985-98, "idade": 25}
+dados_usuario["nome"] => Devolve o valor, que é "William".
+
+
