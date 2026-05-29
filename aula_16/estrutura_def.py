@@ -21,3 +21,6 @@ def calcular_preco_pizza(tamanho, borda_recheada=False):
 print(calcular_preco_pizza("P")) # 25
 print(calcular_preco_pizza("P",True)) # 33
 print(calcular_preco_pizza("M", False)) # 35
+
+
+lista_mercado = ['Arroz', 'Feijão', 'Danoninho', 'Açucar']
