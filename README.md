@@ -81,6 +81,7 @@ Ex: dados_usuario = {} // Dicionário Vazio
 dados_usuario = {"nome": "William", "cpf": 111456985-98, "idade": 25}
 dados_usuario["nome"] => Devolve o valor, que é "William".
 
+<<<<<<< HEAD
 ## POO
 1. Em python, todo molde é declarado através de uma classe => [class].
 2. Qualquer Característica dentro de uma classe, é chamada de [atributo] e são declaradas com variáveis.
@@ -94,4 +95,8 @@ snake_case -> nome_aluno -> Nome de varíaveis, métodos(funções) e arquivos.
 cammelCase -> nomeAluno -> Nome de varíaveis, métodos(funções). `Mais atual*`
 PascalCase -> NomeAluno -> Classes.
 kebab-case -> nome-aluno -> Não utilizamos em python.
+=======
+# REALIZANDO UM TESTE - APAGAR ESTA PARTE
+
+>>>>>>> 43bae5aac896f8e2038bf26b1082fa44a2139ed3
 

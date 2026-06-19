@@ -4,9 +4,10 @@
 
 class Pessoa:
     # Constructor
-    def __init__(self, nome: str, cpf: str):
+    def __init__(self, nome: str, cpf: str, data_nascimento: str):
         self.nome = nome # Atributo público
-        self._cpf = cpf  # Atributo privado
+        self._cpf = cpf  # Atributo privado 
+        self.data_nascimento = data_nascimento # Atributo público
        
     
     # Método de apresentação
